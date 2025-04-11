@@ -1,0 +1,16 @@
+angr==9.2.97
+imblearn==0.0
+joblib==1.4.2
+keras==2.12.0
+matplotlib==3.9.2
+networkx==3.2.1
+numpy==1.23.5
+pandas==2.2.1
+scikeras==0.12.0
+scikit-learn==1.5.1
+scipy==1.13.0
+tensorflow==2.12.0
+tqdm==4.66.2
+xgboost==2.0.3
+
+
