@@ -1,0 +1,1 @@
+This project explores adversarial attacks on IoT malware detectors through payload injection into unused regions of ELF binary files. It includes feature extraction, training of machine learning-based malware detection models, explainability analysis using SHAP and LIME, and the implementation of a payload injection-based adversarial attack.
